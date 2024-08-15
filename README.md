@@ -1,1 +1,3 @@
-# Root deployment module for Ansible Controller ASG 
+# Deployment repo for Ansible Controller ASG 
+
+- Work in progress. Will become a demo repo with further work
